@@ -1,0 +1,28 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "title": "juice",
+            "price": 26,
+            "description": "Orange juice"
+        },
+        {
+            "id": 2,
+            "title": "nutella",
+            "price": 79,
+            "description": "chocolate candy"
+        },
+        {
+            "id":3,
+            "title":"Stabilo boss marker",
+            "price": 33,
+            "description": "a blue marker for students"
+        },
+        {
+            "id": 4,
+            "title": "pencil",
+            "price": 5,
+            "description": "a number 2 pencil"
+        }
+    ]
+}
